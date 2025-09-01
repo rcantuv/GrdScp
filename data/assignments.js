@@ -34,8 +34,8 @@ assignments = {
       "title": "HW0",
       "course": "EE16A-F25",
       "dueDate": "2025-08-31T23:59:00",
-      "link": "https://www.gradescope.com/courses/1095473",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/1095473/assignments/6623248/submissions/343154280",
+      "submitted": true
     }
   ],
   "MATH 113-LEC-001": [
