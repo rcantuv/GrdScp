@@ -25,8 +25,8 @@ assignments = {
       "title": "Vitamin 1",
       "course": "CS161",
       "dueDate": "2025-09-08T13:00:00",
-      "link": "https://www.gradescope.com/courses/1098878/assignments/6580793/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/1098878/assignments/6580793/submissions/344637171",
+      "submitted": true
     },
     {
       "title": "Project 1 Writeup",
