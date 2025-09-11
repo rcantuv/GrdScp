@@ -98,6 +98,13 @@ assignments = {
   ],
   "Phys110a": [
     {
+      "title": "Homework 2",
+      "course": "Phys110a",
+      "dueDate": "2025-09-15T23:59:00",
+      "link": "https://www.gradescope.com/courses/1106387",
+      "submitted": false
+    },
+    {
       "title": "Homework 1",
       "course": "Phys110a",
       "dueDate": "2025-09-08T23:59:00",
