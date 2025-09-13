@@ -124,8 +124,8 @@ assignments = {
       "title": "HW 2",
       "course": "Physics 137B",
       "dueDate": "2025-09-12T23:59:00",
-      "link": "https://www.gradescope.com/courses/1106009",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/1106009/assignments/6637442/submissions/346836820",
+      "submitted": true
     },
     {
       "title": "HW 3",
