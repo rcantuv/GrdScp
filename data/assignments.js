@@ -18,15 +18,15 @@ assignments = {
       "title": "Project 1 Autograder",
       "course": "CS161",
       "dueDate": "2025-09-19T23:59:00",
-      "link": "https://www.gradescope.com/courses/1098878",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/1098878/assignments/6580615/submissions/349223706",
+      "submitted": true
     },
     {
       "title": "Project 1 Checkpoint",
       "course": "CS161",
       "dueDate": "2025-09-12T23:59:00",
-      "link": "https://www.gradescope.com/courses/1098878",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/1098878/assignments/6580617/submissions/349222542",
+      "submitted": true
     },
     {
       "title": "Vitamin 1",
