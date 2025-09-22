@@ -15,6 +15,13 @@ assignments = {
       "submitted": false
     },
     {
+      "title": "Homework 3",
+      "course": "CS161",
+      "dueDate": "2025-10-03T23:59:00",
+      "link": "https://www.gradescope.com/courses/1098878/assignments/6580543/submissions/new",
+      "submitted": false
+    },
+    {
       "title": "Project 1 Autograder",
       "course": "CS161",
       "dueDate": "2025-09-19T23:59:00",
@@ -27,6 +34,20 @@ assignments = {
       "dueDate": "2025-09-12T23:59:00",
       "link": "https://www.gradescope.com/courses/1098878/assignments/6580617/submissions/349222542",
       "submitted": true
+    },
+    {
+      "title": "Project 2 Design Doc Checkpoint",
+      "course": "CS161",
+      "dueDate": "2025-10-12T23:59:00",
+      "link": "https://www.gradescope.com/courses/1098878",
+      "submitted": false
+    },
+    {
+      "title": "Project 2 Spec Quiz",
+      "course": "CS161",
+      "dueDate": "2025-09-26T23:59:00",
+      "link": "https://www.gradescope.com/courses/1098878/assignments/6580623/submissions/new",
+      "submitted": false
     },
     {
       "title": "Vitamin 1",
