@@ -11,8 +11,8 @@ assignments = {
       "title": "Homework 2",
       "course": "CS161",
       "dueDate": "2025-09-24T23:59:00",
-      "link": "https://www.gradescope.com/courses/1098878/assignments/6580542/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/1098878/assignments/6580542/submissions/350986334",
+      "submitted": true
     },
     {
       "title": "Homework 3",
