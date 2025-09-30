@@ -125,8 +125,8 @@ assignments = {
       "title": "HW5",
       "course": "MATH 113-LEC-001",
       "dueDate": "2025-09-30T14:10:00",
-      "link": "https://www.gradescope.com/courses/1072860",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/1072860/assignments/6807445/submissions/353141401",
+      "submitted": true
     }
   ],
   "Phys110a": [
