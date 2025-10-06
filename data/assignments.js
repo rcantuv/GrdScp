@@ -22,6 +22,13 @@ assignments = {
       "submitted": true
     },
     {
+      "title": "Homework 4",
+      "course": "CS161",
+      "dueDate": "2025-10-10T23:59:00",
+      "link": "https://www.gradescope.com/courses/1098878/assignments/6580608/submissions/new",
+      "submitted": false
+    },
+    {
       "title": "Project 1 Autograder",
       "course": "CS161",
       "dueDate": "2025-09-19T23:59:00",
@@ -48,6 +55,13 @@ assignments = {
       "dueDate": "2025-09-26T23:59:00",
       "link": "https://www.gradescope.com/courses/1098878/assignments/6580623/submissions/351086359",
       "submitted": true
+    },
+    {
+      "title": "[Ungraded] Online Exam Demo Answer Sheet",
+      "course": "CS161",
+      "dueDate": "2025-12-18T23:59:00",
+      "link": "https://www.gradescope.com/courses/1098878/assignments/6580629/submissions/new",
+      "submitted": false
     },
     {
       "title": "Vitamin 1",
