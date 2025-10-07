@@ -99,6 +99,13 @@ assignments = {
       "submitted": false
     },
     {
+      "title": "Vitamin 6",
+      "course": "CS161",
+      "dueDate": "2025-10-13T13:00:00",
+      "link": "https://www.gradescope.com/courses/1098878/assignments/6580815/submissions/new",
+      "submitted": false
+    },
+    {
       "title": "Project 1 Writeup",
       "course": "CS161",
       "dueDate": "2025-09-19T23:59:00",
