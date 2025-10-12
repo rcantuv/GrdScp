@@ -102,8 +102,8 @@ assignments = {
       "title": "Vitamin 6",
       "course": "CS161",
       "dueDate": "2025-10-13T13:00:00",
-      "link": "https://www.gradescope.com/courses/1098878/assignments/6580815/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/1098878/assignments/6580815/submissions/357431958",
+      "submitted": true
     },
     {
       "title": "Project 1 Writeup",
