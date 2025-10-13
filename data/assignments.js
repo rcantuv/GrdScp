@@ -29,6 +29,13 @@ assignments = {
       "submitted": true
     },
     {
+      "title": "Homework 5",
+      "course": "CS161",
+      "dueDate": "2025-10-24T23:59:00",
+      "link": "https://www.gradescope.com/courses/1098878/assignments/6580610/submissions/new",
+      "submitted": false
+    },
+    {
       "title": "Project 1 Autograder",
       "course": "CS161",
       "dueDate": "2025-09-19T23:59:00",
@@ -55,6 +62,20 @@ assignments = {
       "dueDate": "2025-09-26T23:59:00",
       "link": "https://www.gradescope.com/courses/1098878/assignments/6580623/submissions/351086359",
       "submitted": true
+    },
+    {
+      "title": "Project 2 Testing Checkpoint",
+      "course": "CS161",
+      "dueDate": "2025-10-24T23:59:00",
+      "link": "https://www.gradescope.com/courses/1098878",
+      "submitted": false
+    },
+    {
+      "title": "[Optional] Homework 5 Lab Autograder",
+      "course": "CS161",
+      "dueDate": "2025-10-24T23:59:00",
+      "link": "https://www.gradescope.com/courses/1098878",
+      "submitted": false
     },
     {
       "title": "[Ungraded] Online Exam Demo Answer Sheet",
