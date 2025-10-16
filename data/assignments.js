@@ -139,6 +139,13 @@ assignments = {
       "dueDate": "2025-09-19T23:59:00",
       "link": "https://www.gradescope.com/courses/1098878/assignments/6627073/submissions/349740699",
       "submitted": true
+    },
+    {
+      "title": "Midterm (Online)",
+      "course": "CS161",
+      "dueDate": "2025-07-14T21:00:00",
+      "link": "https://www.gradescope.com/courses/1098878",
+      "submitted": false
     }
   ],
   "MATH 113-LEC-001": [
