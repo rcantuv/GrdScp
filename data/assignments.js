@@ -32,8 +32,8 @@ assignments = {
       "title": "Homework 5",
       "course": "CS161",
       "dueDate": "2025-10-24T23:59:00",
-      "link": "https://www.gradescope.com/courses/1098878/assignments/6580610/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/1098878/assignments/6580610/submissions/361665798",
+      "submitted": true
     },
     {
       "title": "Project 1 Autograder",
@@ -202,8 +202,8 @@ assignments = {
       "title": "HW7",
       "course": "MATH 113-LEC-001",
       "dueDate": "2025-10-23T14:10:00",
-      "link": "https://www.gradescope.com/courses/1072860",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/1072860/assignments/6975324/submissions/361662382",
+      "submitted": true
     },
     {
       "title": "HW8",
