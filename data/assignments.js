@@ -299,6 +299,13 @@ assignments = {
       "dueDate": "2025-10-17T23:59:00",
       "link": "https://www.gradescope.com/courses/1106009/assignments/6909243/submissions/359638515",
       "submitted": true
+    },
+    {
+      "title": "HW 7",
+      "course": "Physics 137B",
+      "dueDate": "2025-10-24T23:59:00",
+      "link": "https://www.gradescope.com/courses/1106009",
+      "submitted": false
     }
   ]
 };
