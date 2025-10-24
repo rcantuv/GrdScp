@@ -253,8 +253,8 @@ assignments = {
       "title": "Midterm 1",
       "course": "Phys110a",
       "dueDate": "2025-10-23T23:44:00",
-      "link": "https://www.gradescope.com/courses/1106387",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/1106387/assignments/7038604/submissions/361895575",
+      "submitted": true
     }
   ],
   "Physics 137B": [
