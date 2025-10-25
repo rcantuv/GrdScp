@@ -50,11 +50,25 @@ assignments = {
       "submitted": true
     },
     {
+      "title": "Project 2 Autograder",
+      "course": "CS161",
+      "dueDate": "2025-10-31T23:59:00",
+      "link": "https://www.gradescope.com/courses/1098878",
+      "submitted": false
+    },
+    {
       "title": "Project 2 Design Doc Checkpoint",
       "course": "CS161",
       "dueDate": "2025-10-12T23:59:00",
       "link": "https://www.gradescope.com/courses/1098878/assignments/6580619/submissions/357922098",
       "submitted": true
+    },
+    {
+      "title": "Project 2 Final Design Doc",
+      "course": "CS161",
+      "dueDate": "2025-10-31T23:59:00",
+      "link": "https://www.gradescope.com/courses/1098878",
+      "submitted": false
     },
     {
       "title": "Project 2 Spec Quiz",
@@ -304,8 +318,8 @@ assignments = {
       "title": "HW 7",
       "course": "Physics 137B",
       "dueDate": "2025-10-24T23:59:00",
-      "link": "https://www.gradescope.com/courses/1106009",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/1106009/assignments/7043463/submissions/362395513",
+      "submitted": true
     }
   ]
 };
