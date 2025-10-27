@@ -81,8 +81,8 @@ assignments = {
       "title": "Project 2 Testing Checkpoint",
       "course": "CS161",
       "dueDate": "2025-10-24T23:59:00",
-      "link": "https://www.gradescope.com/courses/1098878",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/1098878/assignments/6580625/submissions/362707453",
+      "submitted": true
     },
     {
       "title": "[Optional] Homework 5 Lab Autograder",
@@ -151,8 +151,8 @@ assignments = {
       "title": "Vitamin 8",
       "course": "CS161",
       "dueDate": "2025-10-27T13:00:00",
-      "link": "https://www.gradescope.com/courses/1098878/assignments/6580853/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/1098878/assignments/6580853/submissions/362708135",
+      "submitted": true
     },
     {
       "title": "Project 1 Writeup",
