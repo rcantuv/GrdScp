@@ -36,6 +36,13 @@ assignments = {
       "submitted": true
     },
     {
+      "title": "Homework 6",
+      "course": "CS161",
+      "dueDate": "2025-11-08T23:59:00",
+      "link": "https://www.gradescope.com/courses/1098878/assignments/6580612/submissions/new",
+      "submitted": false
+    },
+    {
       "title": "Project 1 Autograder",
       "course": "CS161",
       "dueDate": "2025-09-19T23:59:00",
