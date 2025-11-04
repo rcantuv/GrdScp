@@ -120,6 +120,13 @@ assignments = {
       "submitted": true
     },
     {
+      "title": "Vitamin 10",
+      "course": "CS161",
+      "dueDate": "2025-11-10T13:00:00",
+      "link": "https://www.gradescope.com/courses/1098878/assignments/6580794/submissions/new",
+      "submitted": false
+    },
+    {
       "title": "Vitamin 2",
       "course": "CS161",
       "dueDate": "2025-09-15T13:00:00",
