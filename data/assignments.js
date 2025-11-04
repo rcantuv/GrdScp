@@ -309,8 +309,8 @@ assignments = {
       "title": "Homework 6",
       "course": "Phys110a",
       "dueDate": "2025-11-03T23:59:00",
-      "link": "https://www.gradescope.com/courses/1106387",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/1106387/assignments/7097578/submissions/365780222",
+      "submitted": true
     }
   ],
   "Physics 137B": [
