@@ -60,7 +60,7 @@ assignments = {
       "title": "Project 2 Autograder",
       "course": "CS161",
       "dueDate": "2025-10-31T23:59:00",
-      "link": "https://www.gradescope.com/courses/1098878/assignments/6580618/submissions/365385573",
+      "link": "https://www.gradescope.com/courses/1098878/assignments/6580618/submissions/367831182",
       "submitted": true
     },
     {
