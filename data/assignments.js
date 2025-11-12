@@ -209,6 +209,13 @@ assignments = {
       "dueDate": "2025-10-16T21:00:00",
       "link": "https://www.gradescope.com/courses/1098878/assignments/6990102/submissions/new",
       "submitted": false
+    },
+    {
+      "title": "Extra-Credit Challenge: Jailbreaking our Chatbot",
+      "course": "CS161",
+      "dueDate": "2025-12-07T23:59:00",
+      "link": "https://www.gradescope.com/courses/1098878",
+      "submitted": false
     }
   ],
   "MATH 113-LEC-001": [
