@@ -306,7 +306,7 @@ assignments = {
     {
       "title": "HW12",
       "course": "MATH 113-LEC-001",
-      "dueDate": "2025-12-02T14:10:00",
+      "dueDate": "2025-12-04T14:10:00",
       "link": "https://www.gradescope.com/courses/1072860",
       "submitted": false
     }
