@@ -381,6 +381,13 @@ assignments = {
       "dueDate": "2025-12-13T23:59:00",
       "link": "https://www.gradescope.com/courses/1106387/assignments/7263982/submissions/378141630",
       "submitted": true
+    },
+    {
+      "title": "Final Fall 2025",
+      "course": "Phys110a",
+      "dueDate": "2025-12-16T22:00:00",
+      "link": "https://www.gradescope.com/courses/1106387/assignments/7325474/submissions/378719650",
+      "submitted": true
     }
   ],
   "Physics 137B": [
