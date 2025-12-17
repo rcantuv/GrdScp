@@ -385,7 +385,7 @@ assignments = {
     {
       "title": "Final Fall 2025",
       "course": "Phys110a",
-      "dueDate": "2025-12-16T22:00:00",
+      "dueDate": "2025-12-16T23:00:00",
       "link": "https://www.gradescope.com/courses/1106387/assignments/7325474/submissions/378719650",
       "submitted": true
     }
