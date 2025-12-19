@@ -116,7 +116,7 @@ assignments = {
       "title": "[Ungraded] Online Exam Demo Answer Sheet",
       "course": "CS161",
       "dueDate": "2025-12-18T23:59:00",
-      "link": "https://www.gradescope.com/courses/1098878/assignments/6580629/submissions/new",
+      "link": "https://www.gradescope.com/courses/1098878",
       "submitted": false
     },
     {
