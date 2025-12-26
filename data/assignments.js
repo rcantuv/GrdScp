@@ -327,7 +327,7 @@ assignments = {
   ],
   "Phys110a": [
     {
-      "title": "Homework 5",
+      "title": "Homework 5 ",
       "course": "Phys110a",
       "dueDate": "2025-10-23T23:59:00",
       "link": "https://www.gradescope.com/courses/1106387/assignments/6615315/submissions/361540573",
@@ -362,7 +362,7 @@ assignments = {
       "submitted": true
     },
     {
-      "title": "Midterm 1",
+      "title": "Midterm",
       "course": "Phys110a",
       "dueDate": "2025-10-23T23:44:00",
       "link": "https://www.gradescope.com/courses/1106387/assignments/7038604/submissions/361895575",
@@ -390,14 +390,14 @@ assignments = {
       "submitted": true
     },
     {
-      "title": "Homework 9",
+      "title": "Extra Credit Homework 9",
       "course": "Phys110a",
       "dueDate": "2025-12-13T23:59:00",
       "link": "https://www.gradescope.com/courses/1106387/assignments/7263982/submissions/378141630",
       "submitted": true
     },
     {
-      "title": "Final Fall 2025",
+      "title": "Final",
       "course": "Phys110a",
       "dueDate": "2025-12-16T23:00:00",
       "link": "https://www.gradescope.com/courses/1106387/assignments/7325474/submissions/378719650",
