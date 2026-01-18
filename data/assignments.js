@@ -1,3 +1,4 @@
 assignments = {
-  "MATH 104": []
+  "MATH 104": [],
+  "Physics 105": []
 };
