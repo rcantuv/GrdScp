@@ -1,5 +1,6 @@
 assignments = {
   "MATH 104": [],
+  "Math 110": [],
   "Physics 105": [
     {
       "title": "HW 1",
