@@ -1,5 +1,13 @@
 assignments = {
-  "MATH 104": [],
+  "MATH 104": [
+    {
+      "title": "Homework 1",
+      "course": "MATH 104",
+      "dueDate": "2026-01-27T23:59:00",
+      "link": "https://www.gradescope.com/courses/1230081",
+      "submitted": false
+    }
+  ],
   "Math 110": [],
   "Physics 105": [
     {
