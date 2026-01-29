@@ -13,7 +13,7 @@ assignments = {
       "title": "Practice Quiz",
       "course": "Math 110",
       "dueDate": "2026-01-29T15:00:00",
-      "link": "https://www.gradescope.com/courses/1221458/assignments/7527854/submissions/new",
+      "link": "https://www.gradescope.com/courses/1221458",
       "submitted": false
     }
   ],
