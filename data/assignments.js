@@ -43,8 +43,8 @@ assignments = {
       "title": "Lab 2: Linear Circuits 2",
       "course": "PHYSICS 111A-LAB-001",
       "dueDate": "2026-02-05T23:59:00",
-      "link": "https://www.gradescope.com/courses/1227319",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/1227319/assignments/7565927/submissions/386436822",
+      "submitted": true
     }
   ],
   "Physics 105": [
