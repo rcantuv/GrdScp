@@ -66,6 +66,13 @@ assignments = {
       "dueDate": "2026-02-12T23:59:00",
       "link": "https://www.gradescope.com/courses/1227319",
       "submitted": false
+    },
+    {
+      "title": " Lab 4: Diodes",
+      "course": "PHYSICS 111A-LAB-001",
+      "dueDate": "2026-02-23T23:59:00",
+      "link": "https://www.gradescope.com/courses/1227319",
+      "submitted": false
     }
   ],
   "Physics 105": [
