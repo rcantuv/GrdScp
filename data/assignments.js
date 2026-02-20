@@ -24,7 +24,7 @@ assignments = {
     {
       "title": "Homework 4",
       "course": "MATH 104",
-      "dueDate": "2026-02-23T23:59:00",
+      "dueDate": "2026-02-24T23:59:00",
       "link": "https://www.gradescope.com/courses/1230081",
       "submitted": false
     }
