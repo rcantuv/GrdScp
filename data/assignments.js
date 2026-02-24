@@ -34,8 +34,8 @@ assignments = {
       "title": "Quiz 4",
       "course": "Math 110",
       "dueDate": "2026-02-24T15:00:00",
-      "link": "https://www.gradescope.com/courses/1221458/assignments/7440274/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/1221458/assignments/7440274/submissions/392531896",
+      "submitted": true
     },
     {
       "title": "Quiz 2",
