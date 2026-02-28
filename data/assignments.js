@@ -122,8 +122,8 @@ assignments = {
       "title": "HW 3",
       "course": "Physics 105",
       "dueDate": "2026-02-27T23:59:00",
-      "link": "https://www.gradescope.com/courses/1231577",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/1231577/assignments/7685149/submissions/393993165",
+      "submitted": true
     }
   ]
 };
