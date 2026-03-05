@@ -106,8 +106,8 @@ assignments = {
       "title": " Lab 5: JFET 1",
       "course": "PHYSICS 111A-LAB-001",
       "dueDate": "2026-03-04T23:59:00",
-      "link": "https://www.gradescope.com/courses/1227319",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/1227319/assignments/7622934/submissions/395330523",
+      "submitted": true
     },
     {
       "title": " Lab 6: JFET 2",
