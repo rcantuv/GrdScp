@@ -143,8 +143,8 @@ assignments = {
       "title": "HW 4",
       "course": "Physics 105",
       "dueDate": "2026-03-06T23:59:00",
-      "link": "https://www.gradescope.com/courses/1231577",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/1231577/assignments/7764798/submissions/396114289",
+      "submitted": true
     }
   ]
 };
