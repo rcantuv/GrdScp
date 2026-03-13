@@ -34,6 +34,13 @@ assignments = {
       "dueDate": "2026-03-10T23:59:00",
       "link": "https://www.gradescope.com/courses/1230081/assignments/7774583/submissions/396950224",
       "submitted": true
+    },
+    {
+      "title": "Homework 6",
+      "course": "MATH 104",
+      "dueDate": "2026-03-19T12:59:00",
+      "link": "https://www.gradescope.com/courses/1230081",
+      "submitted": false
     }
   ],
   "Math 110": [
