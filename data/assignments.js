@@ -83,8 +83,8 @@ assignments = {
       "title": "Quiz 5",
       "course": "Math 110",
       "dueDate": "2026-03-17T15:00:00",
-      "link": "https://www.gradescope.com/courses/1221458/assignments/7440281/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/1221458/assignments/7440281/submissions/398617032",
+      "submitted": true
     },
     {
       "title": "Practice Quiz",
