@@ -59,7 +59,7 @@ assignments = {
     {
       "title": "Homework 9",
       "course": "MATH 104",
-      "dueDate": "2026-04-07T16:21:00",
+      "dueDate": "2026-04-09T16:21:00",
       "link": "https://www.gradescope.com/courses/1230081",
       "submitted": false
     }
