@@ -69,8 +69,8 @@ assignments = {
       "title": "Quiz 6",
       "course": "Math 110",
       "dueDate": "2026-03-31T15:00:00",
-      "link": "https://www.gradescope.com/courses/1221458/assignments/7440272/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/1221458/assignments/7440272/submissions/401865438",
+      "submitted": true
     },
     {
       "title": "Quiz 4",
