@@ -171,6 +171,13 @@ assignments = {
       "dueDate": "2026-04-06T23:59:00",
       "link": "https://www.gradescope.com/courses/1227319",
       "submitted": false
+    },
+    {
+      "title": " Lab 9: Op Amps 3",
+      "course": "PHYSICS 111A-LAB-001",
+      "dueDate": "2026-04-13T23:59:00",
+      "link": "https://www.gradescope.com/courses/1227319",
+      "submitted": false
     }
   ],
   "Physics 105": [
