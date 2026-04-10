@@ -185,6 +185,13 @@ assignments = {
       "dueDate": "2026-04-13T23:59:00",
       "link": "https://www.gradescope.com/courses/1227319",
       "submitted": false
+    },
+    {
+      "title": "Lab 10: Noise and ADS Control with Python",
+      "course": "PHYSICS 111A-LAB-001",
+      "dueDate": "2026-04-20T23:59:00",
+      "link": "https://www.gradescope.com/courses/1227319",
+      "submitted": false
     }
   ],
   "Physics 105": [
