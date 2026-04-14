@@ -69,8 +69,8 @@ assignments = {
       "title": "Quiz 8",
       "course": "Math 110",
       "dueDate": "2026-04-14T00:00:00",
-      "link": "https://www.gradescope.com/courses/1221458/assignments/7440271/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/1221458/assignments/7440271/submissions/405486373",
+      "submitted": true
     },
     {
       "title": "Quiz 6",
@@ -183,8 +183,8 @@ assignments = {
       "title": " Lab 8: Op Amps 2",
       "course": "PHYSICS 111A-LAB-001",
       "dueDate": "2026-04-06T23:59:00",
-      "link": "https://www.gradescope.com/courses/1227319",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/1227319/assignments/7622984/submissions/405487459",
+      "submitted": true
     },
     {
       "title": " Lab 9: Op Amps 3",
