@@ -97,8 +97,8 @@ assignments = {
       "title": "Quiz 9",
       "course": "Math 110",
       "dueDate": "2026-04-21T00:00:00",
-      "link": "https://www.gradescope.com/courses/1221458/assignments/7440277/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/1221458/assignments/7440277/submissions/407540137",
+      "submitted": true
     },
     {
       "title": "Quiz 1",
@@ -204,7 +204,7 @@ assignments = {
       "title": "Lab 10: Noise and ADS Control with Python",
       "course": "PHYSICS 111A-LAB-001",
       "dueDate": "2026-04-20T23:59:00",
-      "link": "https://www.gradescope.com/courses/1227319/assignments/7623038/submissions/407534187",
+      "link": "https://www.gradescope.com/courses/1227319/assignments/7623038/submissions/407536195",
       "submitted": true
     }
   ],
