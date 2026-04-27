@@ -94,6 +94,13 @@ assignments = {
       "submitted": true
     },
     {
+      "title": "Quiz 10",
+      "course": "Math 110",
+      "dueDate": "2026-04-28T00:00:00",
+      "link": "https://www.gradescope.com/courses/1221458/assignments/7440275/submissions/new",
+      "submitted": false
+    },
+    {
       "title": "Quiz 2",
       "course": "Math 110",
       "dueDate": "2026-02-10T15:00:00",
