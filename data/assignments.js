@@ -97,8 +97,8 @@ assignments = {
       "title": "Quiz 10",
       "course": "Math 110",
       "dueDate": "2026-04-28T00:00:00",
-      "link": "https://www.gradescope.com/courses/1221458/assignments/7440275/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/1221458/assignments/7440275/submissions/409654108",
+      "submitted": true
     },
     {
       "title": "Quiz 2",
@@ -211,8 +211,8 @@ assignments = {
       "title": " Lab 9: Op Amps 3",
       "course": "PHYSICS 111A-LAB-001",
       "dueDate": "2026-04-13T23:59:00",
-      "link": "https://www.gradescope.com/courses/1227319",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/1227319/assignments/7623003/submissions/409669041",
+      "submitted": true
     },
     {
       "title": "Lab 10: Noise and ADS Control with Python",
