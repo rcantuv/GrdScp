@@ -292,6 +292,13 @@ assignments = {
       "dueDate": "2026-04-24T23:59:00",
       "link": "https://www.gradescope.com/courses/1231577/assignments/8019447/submissions/409040686",
       "submitted": true
+    },
+    {
+      "title": "HW 10",
+      "course": "Physics 105",
+      "dueDate": "2026-05-01T23:59:00",
+      "link": "https://www.gradescope.com/courses/1231577",
+      "submitted": false
     }
   ]
 };
