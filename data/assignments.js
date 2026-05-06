@@ -1,4 +1,5 @@
 assignments = {
+  "EE143 (Spring 2026)": [],
   "MATH 104": [
     {
       "title": "Homework 1",
