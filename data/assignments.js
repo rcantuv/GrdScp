@@ -4,8 +4,8 @@ assignments = {
       "title": "Lab Report 2",
       "course": "EE143 (Spring 2026)",
       "dueDate": "2026-05-08T23:59:00",
-      "link": "https://www.gradescope.com/courses/1309489",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/1309489/assignments/8117396/submissions/412654208",
+      "submitted": true
     }
   ],
   "MATH 104": [
@@ -234,8 +234,8 @@ assignments = {
       "title": "Final Project",
       "course": "PHYSICS 111A-LAB-001",
       "dueDate": "2026-05-08T23:59:00",
-      "link": "https://www.gradescope.com/courses/1227319",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/1227319/assignments/8035619/submissions/412655912",
+      "submitted": true
     }
   ],
   "Physics 105": [
