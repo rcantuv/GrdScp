@@ -233,35 +233,35 @@ assignments = {
   ],
   "Physics 105": [
     {
-      "title": "HW 1",
+      "title": "Homework 1",
       "course": "Physics 105",
       "dueDate": "2026-02-13T23:59:00",
       "link": "https://www.gradescope.com/courses/1231577/assignments/7492354/submissions/389259124",
       "submitted": true
     },
     {
-      "title": "HW 2",
+      "title": "Homework 2",
       "course": "Physics 105",
       "dueDate": "2026-02-20T23:59:00",
       "link": "https://www.gradescope.com/courses/1231577/assignments/7630122/submissions/391632742",
       "submitted": true
     },
     {
-      "title": "HW 3",
+      "title": "Homework 3",
       "course": "Physics 105",
       "dueDate": "2026-02-27T23:59:00",
       "link": "https://www.gradescope.com/courses/1231577/assignments/7685149/submissions/393993165",
       "submitted": true
     },
     {
-      "title": "HW 4",
+      "title": "Homework 4",
       "course": "Physics 105",
       "dueDate": "2026-03-06T23:59:00",
       "link": "https://www.gradescope.com/courses/1231577/assignments/7764798/submissions/396114289",
       "submitted": true
     },
     {
-      "title": "HW 5",
+      "title": "Homework 5",
       "course": "Physics 105",
       "dueDate": "2026-03-13T23:59:00",
       "link": "https://www.gradescope.com/courses/1231577/assignments/7813726/submissions/397897046",
