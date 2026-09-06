@@ -33,7 +33,7 @@ assignments = {
     {
       "title": "Homework 1",
       "course": "COMPSCI 152-LEC-001",
-      "dueDate": "2026-09-11T23:59:00",
+      "dueDate": "2026-09-13T23:59:00",
       "link": "https://www.gradescope.com/courses/1364686/assignments/8535414/submissions/new",
       "submitted": false
     }
