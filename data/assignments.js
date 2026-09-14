@@ -24,25 +24,25 @@ assignments = {
       "submitted": true
     },
     {
-      "title": "Lab 1 Directed",
+      "title": "Lab 1: Directed Portion",
       "course": "COMPSCI 152-LEC-001",
       "dueDate": "2026-09-13T23:59:00",
-      "link": "https://www.gradescope.com/courses/1364686",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/1364686/assignments/8459251/submissions/425970057",
+      "submitted": true
     },
     {
-      "title": "Lab 1 Open Ended",
+      "title": "Lab 1: Open-Ended Portion",
       "course": "COMPSCI 152-LEC-001",
       "dueDate": "2026-09-13T23:59:00",
-      "link": "https://www.gradescope.com/courses/1364686",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/1364686/assignments/8459253/submissions/425975269",
+      "submitted": true
     },
     {
       "title": "Homework 1",
       "course": "COMPSCI 152-LEC-001",
       "dueDate": "2026-09-13T23:59:00",
-      "link": "https://www.gradescope.com/courses/1364686/assignments/8535414/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/1364686/assignments/8535414/submissions/425984089",
+      "submitted": true
     }
   ],
   "MATH 185-LEC-005": []
