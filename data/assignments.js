@@ -43,6 +43,13 @@ assignments = {
       "dueDate": "2026-09-13T23:59:00",
       "link": "https://www.gradescope.com/courses/1364686/assignments/8535414/submissions/425984089",
       "submitted": true
+    },
+    {
+      "title": "Homework 2",
+      "course": "COMPSCI 152-LEC-001",
+      "dueDate": "2026-09-27T23:59:00",
+      "link": "https://www.gradescope.com/courses/1364686/assignments/8641533/submissions/new",
+      "submitted": false
     }
   ],
   "MATH 185-LEC-005": []
