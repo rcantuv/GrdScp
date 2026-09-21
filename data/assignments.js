@@ -18,8 +18,8 @@ assignments = {
       "title": "Homework 3",
       "course": "C191A Fall 2026",
       "dueDate": "2026-09-21T17:00:00",
-      "link": "https://www.gradescope.com/courses/1370903",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/1370903/assignments/8650449/submissions/428748783",
+      "submitted": true
     }
   ],
   "COMPSCI 152-LEC-001": [
