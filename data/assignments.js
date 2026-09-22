@@ -52,6 +52,20 @@ assignments = {
       "submitted": true
     },
     {
+      "title": "Lab 2: Directed Portion",
+      "course": "COMPSCI 152-LEC-001",
+      "dueDate": "2026-09-30T23:59:00",
+      "link": "https://www.gradescope.com/courses/1364686",
+      "submitted": false
+    },
+    {
+      "title": "Lab 2: Open-Ended Portion",
+      "course": "COMPSCI 152-LEC-001",
+      "dueDate": "2026-09-30T23:59:00",
+      "link": "https://www.gradescope.com/courses/1364686",
+      "submitted": false
+    },
+    {
       "title": "Homework 2",
       "course": "COMPSCI 152-LEC-001",
       "dueDate": "2026-09-27T23:59:00",
