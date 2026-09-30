@@ -27,6 +27,13 @@ assignments = {
       "dueDate": "2026-09-28T17:00:00",
       "link": "https://www.gradescope.com/courses/1370903/assignments/8708434/submissions/431441283",
       "submitted": true
+    },
+    {
+      "title": "Homework 5",
+      "course": "C191A Fall 2026",
+      "dueDate": "2026-10-05T17:00:00",
+      "link": "https://www.gradescope.com/courses/1370903",
+      "submitted": false
     }
   ],
   "COMPSCI 152-LEC-001": [
