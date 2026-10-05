@@ -32,8 +32,8 @@ assignments = {
       "title": "Homework 5",
       "course": "C191A Fall 2026",
       "dueDate": "2026-10-05T17:00:00",
-      "link": "https://www.gradescope.com/courses/1370903",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/1370903/assignments/8771019/submissions/434012835",
+      "submitted": true
     }
   ],
   "COMPSCI 152-LEC-001": [
@@ -85,6 +85,13 @@ assignments = {
       "dueDate": "2026-09-27T23:59:00",
       "link": "https://www.gradescope.com/courses/1364686/assignments/8641533/submissions/431162572",
       "submitted": true
+    },
+    {
+      "title": "Homework 3",
+      "course": "COMPSCI 152-LEC-001",
+      "dueDate": "2026-10-16T23:59:00",
+      "link": "https://www.gradescope.com/courses/1364686",
+      "submitted": false
     }
   ],
   "MATH 185-LEC-005": []
