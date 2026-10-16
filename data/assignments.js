@@ -97,8 +97,8 @@ assignments = {
       "title": "Homework 3",
       "course": "COMPSCI 152-LEC-001",
       "dueDate": "2026-10-16T23:59:00",
-      "link": "https://www.gradescope.com/courses/1364686",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/1364686/assignments/8807694/submissions/437892623",
+      "submitted": true
     },
     {
       "title": "Lab 3: Directed Portion",
