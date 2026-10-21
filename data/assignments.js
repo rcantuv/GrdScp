@@ -41,6 +41,20 @@ assignments = {
       "dueDate": "2026-10-12T17:00:00",
       "link": "https://www.gradescope.com/courses/1370903/assignments/8822218/submissions/436528702",
       "submitted": true
+    },
+    {
+      "title": "Final Project Assignment #1: Group Formation & Initial Proposal",
+      "course": "C191A Fall 2026",
+      "dueDate": "2026-10-23T23:59:00",
+      "link": "https://www.gradescope.com/courses/1370903",
+      "submitted": false
+    },
+    {
+      "title": "Homework 7",
+      "course": "C191A Fall 2026",
+      "dueDate": "2026-10-26T17:00:00",
+      "link": "https://www.gradescope.com/courses/1370903",
+      "submitted": false
     }
   ],
   "COMPSCI 152-LEC-001": [
