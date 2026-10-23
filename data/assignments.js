@@ -132,8 +132,8 @@ assignments = {
       "title": "Lab 4: Directed (code submission only)",
       "course": "COMPSCI 152-LEC-001",
       "dueDate": "2026-10-25T23:59:00",
-      "link": "https://www.gradescope.com/courses/1364686",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/1364686/assignments/8893194/submissions/440460057",
+      "submitted": true
     },
     {
       "title": "Lab 4: Open-Ended (Report) -- OPTIONAL",
@@ -146,8 +146,8 @@ assignments = {
       "title": "Lab 4: Open-Ended (code submission only)",
       "course": "COMPSCI 152-LEC-001",
       "dueDate": "2026-10-25T23:59:00",
-      "link": "https://www.gradescope.com/courses/1364686",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/1364686/assignments/8893196/submissions/440470965",
+      "submitted": true
     }
   ],
   "MATH 185-LEC-005": []
