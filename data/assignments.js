@@ -69,6 +69,13 @@ assignments = {
       "dueDate": "2026-11-10T17:00:00",
       "link": "https://www.gradescope.com/courses/1370903",
       "submitted": false
+    },
+    {
+      "title": "Final Project Assignment #2: Expanded Project Proposal",
+      "course": "C191A Fall 2026",
+      "dueDate": "2026-11-10T23:59:00",
+      "link": "https://www.gradescope.com/courses/1370903",
+      "submitted": false
     }
   ],
   "COMPSCI 152-LEC-001": [
