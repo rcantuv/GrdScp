@@ -174,8 +174,8 @@ assignments = {
       "title": "Homework 4",
       "course": "COMPSCI 152-LEC-001",
       "dueDate": "2026-11-08T23:59:00",
-      "link": "https://www.gradescope.com/courses/1364686",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/1364686/assignments/8948773/submissions/446265948",
+      "submitted": true
     },
     {
       "title": "Lab 5: Open-ended / Competition (Code Submission)",
