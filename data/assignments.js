@@ -67,8 +67,8 @@ assignments = {
       "title": "Homework 9",
       "course": "C191A Fall 2026",
       "dueDate": "2026-11-10T17:00:00",
-      "link": "https://www.gradescope.com/courses/1370903",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/1370903/assignments/9023959/submissions/446663798",
+      "submitted": true
     },
     {
       "title": "Final Project Assignment #2: Expanded Project Proposal",
