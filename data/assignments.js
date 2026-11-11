@@ -66,7 +66,7 @@ assignments = {
     {
       "title": "Homework 9",
       "course": "C191A Fall 2026",
-      "dueDate": "2026-11-10T17:00:00",
+      "dueDate": "2026-11-10T23:59:00",
       "link": "https://www.gradescope.com/courses/1370903/assignments/9023959/submissions/446663798",
       "submitted": true
     },
