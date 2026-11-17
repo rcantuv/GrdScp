@@ -188,8 +188,8 @@ assignments = {
       "title": "Lab 5: Directed",
       "course": "COMPSCI 152-LEC-001",
       "dueDate": "2026-11-16T23:59:00",
-      "link": "https://www.gradescope.com/courses/1364686",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/1364686/assignments/9022655/submissions/449065910",
+      "submitted": true
     },
     {
       "title": "Lab 5: Open-ended (Report)",
