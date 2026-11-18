@@ -204,6 +204,27 @@ assignments = {
       "dueDate": "2026-12-02T23:59:00",
       "link": "https://www.gradescope.com/courses/1364686",
       "submitted": false
+    },
+    {
+      "title": "Lab 6: Directed (code submission only)",
+      "course": "COMPSCI 152-LEC-001",
+      "dueDate": "2026-12-03T23:59:00",
+      "link": "https://www.gradescope.com/courses/1364686",
+      "submitted": false
+    },
+    {
+      "title": "Lab 6: Open-Ended (code submission only)",
+      "course": "COMPSCI 152-LEC-001",
+      "dueDate": "2026-12-03T23:59:00",
+      "link": "https://www.gradescope.com/courses/1364686",
+      "submitted": false
+    },
+    {
+      "title": "Lab 6: Competition (code submission only)",
+      "course": "COMPSCI 152-LEC-001",
+      "dueDate": "2026-12-06T23:59:00",
+      "link": "https://www.gradescope.com/courses/1364686",
+      "submitted": false
     }
   ],
   "MATH 185-LEC-005": []
