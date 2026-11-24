@@ -76,6 +76,13 @@ assignments = {
       "dueDate": "2026-11-10T23:59:00",
       "link": "https://www.gradescope.com/courses/1370903/assignments/9024055/submissions/447088086",
       "submitted": true
+    },
+    {
+      "title": "Final Project Assignment #3: Project Interim Report",
+      "course": "C191A Fall 2026",
+      "dueDate": "2026-11-24T23:59:00",
+      "link": "https://www.gradescope.com/courses/1370903",
+      "submitted": false
     }
   ],
   "COMPSCI 152-LEC-001": [
@@ -223,6 +230,13 @@ assignments = {
       "title": "Lab 6: Competition (code submission only)",
       "course": "COMPSCI 152-LEC-001",
       "dueDate": "2026-12-06T23:59:00",
+      "link": "https://www.gradescope.com/courses/1364686",
+      "submitted": false
+    },
+    {
+      "title": "Lab 6: Open-ended (Report)",
+      "course": "COMPSCI 152-LEC-001",
+      "dueDate": "2026-12-03T23:59:00",
       "link": "https://www.gradescope.com/courses/1364686",
       "submitted": false
     }
