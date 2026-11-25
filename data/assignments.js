@@ -81,8 +81,8 @@ assignments = {
       "title": "Final Project Assignment #3: Project Interim Report",
       "course": "C191A Fall 2026",
       "dueDate": "2026-11-24T23:59:00",
-      "link": "https://www.gradescope.com/courses/1370903",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/1370903/assignments/9109393/submissions/451689598",
+      "submitted": true
     }
   ],
   "COMPSCI 152-LEC-001": [
